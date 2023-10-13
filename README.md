@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hossein Lotfi
 - 👀 I’m interested in Web Development
 - 🎓 I hold a Master's degree in Software Engineering from Sharif University of Technology
-- 📫 Email: hosseinlotfidev@gmail.com
+- 📫 Email: hlotfidev@gmail.com
